@@ -1,15 +1,6 @@
-<style>
-    .header {
-        display: block;
-        margin-top: 1.5rem;
-        margin-bottom: 2.25rem;
-        font-size: 3.25rem;
-    }
-</style>
-
 <center>
 
-## **<span class="header">&lt;hello&gt;</span>**
+## **<span class="header" style="display: block; margin-top: 1.5rem; margin-bottom: 2.25rem; font-size: 3.25rem;">&lt;hello&gt;</span>**
 
 My name's Chris and I code stuff
 
