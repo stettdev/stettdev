@@ -1,19 +1,20 @@
-<p align="center">
+<h2 class="header" style="text-align: center;">&lt;hello&gt;</h2>
 
-## **<span class="header" style="display: block; margin-top: 1.5rem; margin-bottom: 2.25rem; font-size: 3.25rem;">&lt;hello&gt;</span>**
+<p style="text-align: center;">My name's Chris and I code stuff</p>
 
-My name's Chris and I code stuff
+<div style="text-align: center;">
 
 ![javascript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=gray) ![node.js](https://img.shields.io/badge/-Node.js-68A063?logo=node.js&logoColor=white) ![mysql](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white)
 
+
 ![editor](https://img.shields.io/badge/Editor-VS%20Code-0078d7?logo=visualstudio&logocolor=white)
+</div>
 
-**&#9660;**
 
-### **RECENT PROJECTS**
+<h3 style="text-align: center;">RECENT PROJECTS</h3>
+
+<div style="text-align: center;">
 
 [![disconomy](https://img.shields.io/badge/Discord%20Bot-Disconomy-teal?logo=discord&logoColor=white)](https://github.com/stettdev/disconomy)
 
-[![]()]()
-
-</p>
+</div>
