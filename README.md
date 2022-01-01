@@ -1,5 +1,3 @@
-<center>
-
 <style>
     .header {
         display: block;
@@ -8,6 +6,8 @@
         font-size: 3.25rem;
     }
 </style>
+
+<center>
 
 ## **<span class="header">&lt;hello&gt;</span>**
 
