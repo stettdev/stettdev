@@ -1,4 +1,4 @@
-## **hello world**
+### **hello world**
 
 My name's Chris and I code stuff
 
@@ -7,6 +7,6 @@ My name's Chris and I code stuff
 ![editor](https://img.shields.io/badge/Editor-VS%20Code-0078d7?logo=visualstudio&logocolor=white)
 
 
-### **RECENT PROJECTS**
+#### **RECENT PROJECTS**
 
 [![disconomy](https://img.shields.io/badge/Discord%20Bot-Disconomy-teal?logo=discord&logoColor=white)](https://github.com/stettdev/disconomy)
