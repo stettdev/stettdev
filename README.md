@@ -7,4 +7,5 @@ My name is Chris and I code stuff
 
 ### **RECENT PROJECTS**
 
+[![stett.dev](https://img.shields.io/badge/Personal%20Website-stett.dev-purple?logo=googlechrome&logoColor=white)](https://github.com/stettdev/website)
 [![disconomy](https://img.shields.io/badge/Discord%20Bot-Disconomy-teal?logo=discord&logoColor=white)](https://github.com/stettdev/disconomy)
